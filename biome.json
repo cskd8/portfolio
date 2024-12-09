@@ -7,7 +7,8 @@
 	},
 	"files": {
 		"ignoreUnknown": false,
-		"ignore": []
+		"ignore": [],
+		"include": ["index.html", "src/**/*"]
 	},
 	"formatter": {
 		"enabled": true,
